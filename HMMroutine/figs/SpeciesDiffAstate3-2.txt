@@ -1,0 +1,12 @@
+und_species_of_f__Ruminococcaceae_CR_OTU_176757        34.213268
+und_species_of_g__Bacteroides_CR_OTU_198788            61.223743
+und_species_of_f__Lachnospiraceae_CR_OTU_185864        12.004656
+und_species_of_g__Dorea_CR_OTU_180577                   6.002328
+und_species_of_f__Ruminococcaceae_CR_OTU_312882        45.617691
+und_species_of_g__Blautia_CR_OTU_184984                 9.603724
+und_species_of_g__Blautia_CR_OTU_4468384               12.004656
+und_species_of_g__Ruminococcus_CR_OTU_4472091         217.884498
+und_species_of_f__Lachnospiraceae_CR_OTU_195465        10.804190
+und_species_of_f__Lachnospiraceae_CR_OTU_176297        12.604888
+und_species_of_f__Lachnospiraceae_CR_OTU_357963       163.263315
+und_species_of_f__Lachnospiraceae_CR_OTU_2101287      433.368064

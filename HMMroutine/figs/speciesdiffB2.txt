@@ -1,0 +1,26 @@
+INCREASE 2->1
+und_species_of_f__Lachnospiraceae_CR_OTU_4456027           30.940357
+und_species_of_f__Ruminococcaceae_CR_OTU_360995            20.367773
+und_species_of_g__Dorea_CR_OTU_305329                      17.569148
+und_species_of_g__Bacteroides_CR_OTU_1944498               65.456735
+und_species_of_f__Clostridiaceae_CR_OTU_4387453             4.197938
+und_species_of_f__Erysipelotrichaceae_CR_OTU_191718       175.691475
+s__uniformis_CR_OTU_4401375                                 4.508896
+und_species_of_g__Blautia_CR_OTU_358798                    79.916299
+und_species_of_g__Lachnobacterium_CR_OTU_2220496           74.163570
+und_species_of_g__Bacteroides_CR_OTU_533373                49.131421
+und_species_of_o__Clostridiales_CR_OTU_177032               5.752730
+und_species_of_g__Roseburia_CR_OTU_518613                  10.728064
+und_species_of_f__Ruminococcaceae_CR_OTU_173863            34.049941
+und_species_of_f__Ruminococcaceae_CR_OTU_1599042            5.441771
+s__uniformis_CR_OTU_328617                                  4.508896
+und_species_of_f__Ruminococcaceae_CR_OTU_182089             3.731500
+und_species_of_f__Ruminococcaceae_CR_OTU_4431545            4.508896
+
+DECREASE 2->1
+und_species_of_f__Christensenellaceae_CR_OTU_2442706          15.547918
+und_species_of_f__Lachnospiraceae_CR_OTU_361972                1.865750
+und_species_of_f__Ruminococcaceae_CR_OTU_327218               26.742419
+und_species_of_g__Phascolarctobacterium_CR_OTU_1740499         4.353417
+und_species_of_f__Lachnospiraceae_CR_OTU_194112                5.597251
+und_species_of_f__Lachnospiraceae_CR_OTU_2420187              31.251315

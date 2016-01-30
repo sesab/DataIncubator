@@ -1,0 +1,18 @@
+DEACREASE IN THE PERTURBE STATE 2
+s__gnavus_CR_OTU_188333                               10.203957
+und_species_of_g__Blautia_CR_OTU_184984                9.603724
+und_species_of_g__Blautia_CR_OTU_195186               25.209777
+und_species_of_f__Lachnospiraceae_CR_OTU_292399        7.803026
+und_species_of_g__Acinetobacter_CR_OTU_4425634         3.601397
+und_species_of_g__Bifidobacterium_CR_OTU_553611       13.205121
+und_species_of_f__Lachnospiraceae_CR_OTU_195759      224.487058
+
+DECRESE IN THE PERTURBE STATE 2
+und_species_of_f__Lachnospiraceae_CR_OTU_300716    1.140442e+01
+und_species_of_f__Ruminococcaceae_CR_OTU_197750    1.140442e+01
+und_species_of_g__Bacteroides_CR_OTU_4449054       6.632572e+02
+und_species_of_g__Dorea_CR_OTU_305329              1.278496e+02
+und_species_of_g__Roseburia_CR_OTU_536831          3.301280e+01
+und_species_of_g__Bacteroides_CR_OTU_197367        1.422912e+04
+und_species_of_f__Lachnospiraceae_CR_OTU_176954    6.002328e-01
+s__gnavus_CR_OTU_193853                            1.020396e+01

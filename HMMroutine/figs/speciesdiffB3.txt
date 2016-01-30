@@ -1,0 +1,13 @@
+Deacrease state 3 -> 1
+und_species_of_g__Dorea_CR_OTU_1667433                  1.8657502
+und_species_of_f__Lachnospiraceae_CR_OTU_163494         6.5301256
+und_species_of_f__Lachnospiraceae_CR_OTU_196526        24.7211899
+und_species_of_f__Ruminococcaceae_CR_OTU_179864         7.6184799
+und_species_of_f__Ruminococcaceae_CR_OTU_339566         9.6397092
+und_species_of_o__Clostridiales_CR_OTU_4347520          0.3109584
+s__prausnitzii_CR_OTU_319275                            3.5760212
+und_species_of_g__Bacteroides_CR_OTU_1698008          125.1607411
+und_species_of_f__Lachnospiraceae_CR_OTU_189292       289.3467567
+und_species_of_f__Leuconostocaceae_CR_OTU_839282        3.2650628
+und_species_of_f__Lachnospiraceae_CR_OTU_175698       106.5032393
+und_species_of_o__Clostridiales_CR_OTU_4462599         22.0780438
