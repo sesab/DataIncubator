@@ -10,7 +10,7 @@
 %         pvalue = array of p-values (if p<0.05/N the result is
 %         significant)
 % 
-% Luca Mazzucato January 2016
+%
 
 function [h,chi2Stat,pvalue]=chi2Fun(mean1,var1,mean2,var2)
 

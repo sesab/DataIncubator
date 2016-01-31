@@ -26,7 +26,6 @@
 %                 .maxmargF=most likely state from alpha
 %                 .maxmarg=most likely state from gamma
 %
-% Luca Mazzucato January 2016
 
                 
 function [modelEM, loglikHist, Posteriors]=HMMRun(observed,K,varargin)

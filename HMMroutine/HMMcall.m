@@ -3,7 +3,7 @@
 % HMMResults(i).change
 % for each i=1,...,ntrials; 
 %
-% Luca Mazzucato December 2016
+
 
 HMM=1; % 1 to run HMM; 0 to load HMM
 BICCRITERION=0;
